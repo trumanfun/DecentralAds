@@ -1,0 +1,30 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "IPriceFeedManager",
+  "sourceName": "contracts/interfaces/IPriceFeedManager.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "int256",
+          "name": "usdAmount",
+          "type": "int256"
+        }
+      ],
+      "name": "getTokenNativePrice",
+      "outputs": [
+        {
+          "internalType": "int256",
+          "name": "coinPrice",
+          "type": "int256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
