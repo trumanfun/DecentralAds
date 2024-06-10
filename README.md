@@ -1,10 +1,10 @@
-![Alt text](https://raw.githubusercontent.com/andreatedesco/DecentralAds/main/presentation/Presentation_01.png)
+![Alt text](https://raw.githubusercontent.com/trumanfun/DecentralAds/blob/main/presentation/Presentation_01.png)
 
 
 ## Use cases
 DecentralAds serves as a bridge between software houses, sponsors, and gamers, facilitating the connection between the various players in the video game industry.
 
-![Alt text](https://raw.githubusercontent.com/andreatedesco/DecentralAds/main/presentation/Presentation_03.png)
+![Alt text](https://raw.githubusercontent.com/trumanfun/DecentralAds/blob/main/presentation/Presentation_03.png)
 
 It enables the integration of customizable dNFTs, called DAd, within video games. These can be given to advertisers and software houses or offered to fans through lotteries. The distinguishing feature is the ability for owners to freely edit the metadata associated with their DAds, trade or resell them, offering a unique feature in the context of in-game advertising.
 
