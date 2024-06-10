@@ -4,8 +4,7 @@ require("@nomiclabs/hardhat-etherscan");
 
 const { 
   PRIVATE_KEY, 
-  FUJI_API_URL,
-  FUJI_API_KEY, 
+  URL,
 } = process.env;
 
 module.exports = {
@@ -24,10 +23,4 @@ module.exports = {
   networks: {
 
   },
-  etherscan: {
-    apiKey: {
-        snowtrace: FUJI_API_KEY,
-    },
-
-  }
 };
