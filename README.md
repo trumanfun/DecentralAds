@@ -18,6 +18,16 @@ The goal for this hackathon was to get to the point of building an MVP that woul
 - Modify the metadata of DAds
 - Withdraw earnings
 
+
+## Deployed Smart Contracts
+| Contract | Address
+| ----------- | ----------- |
+| AdsManager | [0x5CFa6EbCb141075F478b3B8139719124D15a7eF8](https://testnet.bscscan.com/address/0x5CFa6EbCb141075F478b3B8139719124D15a7eF8) |
+| IPFSManager | [0xf879432b14B4635fC1aDEfa0C0555B9db60936C6](https://testnet.bscscan.com/address/0xf879432b14B4635fC1aDEfa0C0555B9db60936C6) |
+| LotteryManager | [0x930C594144D4b20471FCe94b2ba69336492Fd4e3](https://testnet.bscscan.com/address/0x930C594144D4b20471FCe94b2ba69336492Fd4e3) |
+| PriceFeedManager | [0x1134787CAbb3B078AFaa28c4dfA2cbC236b8C6A9](https://testnet.bscscan.com/address/0x1134787CAbb3B078AFaa28c4dfA2cbC236b8C6A9) |
+
+
 ## Future plans for DecentralAds
 The project presented in this hackathon is actually just the beginning.
 
@@ -30,12 +40,3 @@ Future developments will include:
 - On-chain reporting of DAd retention in the game
 - Integration of a CPM system, where multiple images can be linked to a DAd, and the one to be displayed will be selected based on the player and their preferences expressed through digital identity
 
-
-
-## Deployed Smart Contracts
-| Contract | Address
-| ----------- | ----------- |
-| AdsManager | [0x5CFa6EbCb141075F478b3B8139719124D15a7eF8](https://testnet.bscscan.com/address/0x5CFa6EbCb141075F478b3B8139719124D15a7eF8) |
-| IPFSManager | [0xf879432b14B4635fC1aDEfa0C0555B9db60936C6](https://testnet.bscscan.com/address/0xf879432b14B4635fC1aDEfa0C0555B9db60936C6) |
-| LotteryManager | [0x930C594144D4b20471FCe94b2ba69336492Fd4e3](https://testnet.bscscan.com/address/0x930C594144D4b20471FCe94b2ba69336492Fd4e3) |
-| PriceFeedManager | [0x1134787CAbb3B078AFaa28c4dfA2cbC236b8C6A9](https://testnet.bscscan.com/address/0x1134787CAbb3B078AFaa28c4dfA2cbC236b8C6A9) |
